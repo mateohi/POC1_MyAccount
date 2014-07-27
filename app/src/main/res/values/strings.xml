@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">POC1_MyAccount</string>
+    <string name="title_activity_my_account_service">My account</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_refresh">Refresh</string>
+
+</resources>
